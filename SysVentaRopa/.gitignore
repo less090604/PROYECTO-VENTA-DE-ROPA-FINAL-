@@ -1,0 +1,16 @@
+# Maven
+target/
+
+# Base de datos H2 local (se crea sola al iniciar)
+data/
+*.mv.db
+*.trace.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Sistema
+.DS_Store
+Thumbs.db
